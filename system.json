@@ -135,7 +135,7 @@
   "background": "systems/customalienrpg/images/egg.webp",
   "socket": true,
   "manifest": "https://github.com/frummel/customalienrpg/releases/download/4.0.0/system.json",
-  "download": "https://github.com/frummel/customalienrpg/releases/download/4.0.0/master.zip",
+  "download": "https://github.com/frummel/customalienrpg/archive/refs/tags/4.0.0.zip",
   "protected": false,
   "initiative": "1d10",
   "bugs": "https://github.com/frummel/customalienrpg/issues",
