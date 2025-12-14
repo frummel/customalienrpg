@@ -1,10 +1,37 @@
-<h1>Alien RPG System</h1>
+<h1>Alien RPG System - With House Rules</h1>
 Official system for playing the ENNIE award winning Alien RPG by Free League on Foundry VTT. <br /><br />
 Free League have now officially endorsed the system and we have been working to provide official content to enhance the system (see below).
 <br />
-Created by Paul Watson
+Created by Paul Watson - additional contributions by Johannes 'El Camino' Camin
 <br /><br />
 See the Journal Entry "MO/TH/ER Instructions" for an overview on how to use the system and it's features.
+<br /><br />
+
+Custom house rules:
+
+* Changes to the names (and in game meaning) of attributes and skills:
+  * Strength -> Somatik, som
+    * Heavy Machinery -> Athletik
+    * Close Combat ->Nahkampf (same as before) 
+    * Stamina -> Überleben
+  * Agility -> Präzision, prä
+    * Mobility ->Beweglichkeit (same as before)
+    * Ranged Combat -> Fernkampf (same as before)
+    * Piloting -> Infiltration
+  * Wits -> Logik, log
+    * Observation -> Beobachtung (new german translation)
+    * Comtech -> Interface
+    * Survival -> Investigation/Recherche
+  * Empathy -> Kinesik, kin
+    * Command -> Inspiration
+    * Manipulation -> Manipulation (same as before)
+    * Medical Aid -> Network
+* Some of the now missing skills will be transformed into talents.
+  * heavy machinery (Somatik)
+  * piloting (Präzision)
+  * Medical (Logik)
+  * etc
+  
 <br /><br />
 The core system provides support for:
 <ul>
