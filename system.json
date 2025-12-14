@@ -1,7 +1,7 @@
 {
   "id": "customalienrpg",
-  "title": "Alien Evolved",
-  "description": "The Alien Enhanced system for FoundryVTT",
+  "title": "Alien Evolved - House Rules",
+  "description": "The Alien Enhanced system for FoundryVTT - with House Rules for our local group",
   "authors": [
     { "name": "Paul Watson" },
     { "name": "Johannes 'El Camino' Camin" }
